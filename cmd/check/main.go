@@ -2,9 +2,9 @@ package main
 
 import (
 	"encoding/json"
-	"github.com/mamezou-tech/concourse-k8s-resource/pkg/k8s"
-	"github.com/mamezou-tech/concourse-k8s-resource/pkg/models"
-	"github.com/mamezou-tech/concourse-k8s-resource/pkg/utils"
+	"github.com/brettbourgeois/concourse-k8s-resource/pkg/k8s"
+	"github.com/brettbourgeois/concourse-k8s-resource/pkg/models"
+	"github.com/brettbourgeois/concourse-k8s-resource/pkg/utils"
 	"k8s.io/apimachinery/pkg/api/errors"
 	"k8s.io/client-go/kubernetes"
 	_ "k8s.io/client-go/plugin/pkg/client/auth"

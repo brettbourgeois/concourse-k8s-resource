@@ -3,7 +3,7 @@ package k8s
 import (
 	"context"
 	"fmt"
-	"github.com/mamezou-tech/concourse-k8s-resource/pkg/models"
+	"github.com/brettbourgeois/concourse-k8s-resource/pkg/models"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	"k8s.io/client-go/kubernetes"
 	"k8s.io/kubectl/pkg/util/deployment"

@@ -2,7 +2,7 @@ package utils
 
 import (
 	"fmt"
-	"github.com/mamezou-tech/concourse-k8s-resource/pkg/models"
+	"github.com/brettbourgeois/concourse-k8s-resource/pkg/models"
 	"log"
 	"os"
 )

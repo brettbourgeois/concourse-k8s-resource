@@ -1,7 +1,7 @@
 package k8s
 
 import (
-	"github.com/mamezou-tech/concourse-k8s-resource/pkg/models"
+	"github.com/brettbourgeois/concourse-k8s-resource/pkg/models"
 	"k8s.io/client-go/kubernetes"
 	"log"
 	"strconv"

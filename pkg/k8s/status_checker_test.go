@@ -2,7 +2,7 @@ package k8s
 
 import (
 	"context"
-	"github.com/mamezou-tech/concourse-k8s-resource/pkg/models"
+	"github.com/brettbourgeois/concourse-k8s-resource/pkg/models"
 	"github.com/stretchr/testify/assert"
 	appv1 "k8s.io/api/apps/v1"
 	"k8s.io/api/core/v1"
